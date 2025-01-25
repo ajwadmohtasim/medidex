@@ -58,7 +58,7 @@ CREATE TABLE Medicine (
 ## Screenshots
 
 ### Screenshot 1: Homepage
-![Main UI](imageA.png)
+![Main UI](img/imageA.png)
 
 ### Screenshot 2: Medi-dex Dashboard
-![Details View](imageB.png)
+![Details View](img/imageB.png)
