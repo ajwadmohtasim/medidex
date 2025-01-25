@@ -1,5 +1,3 @@
-# medidex
-A simple medicine database made with JavaFX and sqlite
 # MEDI-DEX
 A JavaFX-based application for managing medicines, their types, generics, and indications. 
 Made for academic purpose. 
