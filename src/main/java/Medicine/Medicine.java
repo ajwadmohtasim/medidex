@@ -30,7 +30,7 @@ public class Medicine extends Generic {
     }
 
     public String getIndicationType() {
-        return super.getIndicationType(); // Use the parent class method
+        return super.getIndicationType();
     }
 
     public String getType() {
