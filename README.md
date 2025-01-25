@@ -1,3 +1,5 @@
+# medidex
+A simple medicine database made with JavaFX and sqlite
 # MEDI-DEX
 A JavaFX-based application for managing medicines, their types, generics, and indications. 
 Made for academic purpose. 
@@ -7,7 +9,7 @@ Made for academic purpose.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/medicine-management-system.git
+   git clone https://github.com/ajwadmohtasim/medidex.git
    ```
 
 2. Ensure Java 11 or later and JavaFX SDK are installed.
